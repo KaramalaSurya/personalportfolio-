@@ -1,0 +1,84 @@
+.second
+{
+    height: 200px;
+    width:100%;
+    background-color:rgb(255, 153, 0);
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+nav
+{
+    height: 50px;
+    background-color: rgb(190, 17, 181);
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none ;
+  padding-left: 0px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
+body
+{
+   background-color:aquamarine;
+   margin: 0;
+   
+   
+
+}
+.aboutme
+{
+   width: 80%;
+   margin: auto;
+   padding: 20px;
+   background-color: white;
+}
+#about
+{
+    text-transform: capitalize;
+
+}
+.education
+{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: white; 
+}
+table
+{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.projects
+{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+    
+}
+.skills
+{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+    
+}
+footer-container
+{
+    height: 200px;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+}
